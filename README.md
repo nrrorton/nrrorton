@@ -1,4 +1,4 @@
-## Hi there, I'm Nick and I want to be the best me I can be!
+## Hi there, I'm Nick, currently and fervently pursuing a CS degree!
 
 ### Forever spending every day pursuing success and happiness.
 
