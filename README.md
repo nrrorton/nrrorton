@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Nick and I want to be the best me I can be!
+
+### Forever spending every day pursuing success and happiness.
 
 <!--
 **nrrorton/nrrorton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
