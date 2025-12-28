@@ -1,6 +1,12 @@
-## Hi there! I'm Nick, currently and fervently pursuing a CS degree.
+## Hi there! I'm Nick, currently fervently pursuing a CS degree.
 
-### Forever spending every day pursuing success and happiness.
+### Forever spending every day in pursuit of all I dare to dream.
+
+With graduation coming up in December of 2026, I fill my time working
+on projects both personal and through my university. I'm genuinely curious
+and would love nothing more than to collaborate on most anything!
+
+Please don't hesitate to reach out if this speaks to you in anyway.
 
 <!--
 **nrrorton/nrrorton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
