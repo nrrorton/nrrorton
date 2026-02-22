@@ -1,9 +1,9 @@
-## Hi there! I'm Nick, currently fervently pursuing a CS degree.
+## Hi there! I'm Nick, a current and forever student of CS and all things technology.
 
 ### Forever spending every day in pursuit of all I dare to dream.
 
 With graduation coming up in December of 2026, I fill my time working
-on projects both personal and through my university. I'm genuinely curious
+on projects both personal and through university. I'm genuinely curious
 and would love nothing more than to collaborate on most anything!
 
 Please don't hesitate to reach out if this speaks to you in anyway.
